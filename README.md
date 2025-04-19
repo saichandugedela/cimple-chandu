@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Chandu Gedela (@cimple-chandu)</h1>
+<h1 align="center">Hi 👋, I'm Sai Chandu Gedela</h1>
 <p align="center">Aspiring Web Developer | Deep Learning Enthusiast |  CSE student at GMR Institute of Technology</p>
 
 ---
@@ -25,14 +25,7 @@
 
 ---
 
-### 📱 Projects
-Here are a few highlights from my recent work:
 
-- 🦠 **Rice Disease Detection **  
-  A TFLite-based App to detect rice leaf diseases using ensemble learning  
-  [Repo Link](https://github.com/saichandugedela/ricevision)
-
----
 
 
 
