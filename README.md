@@ -30,9 +30,7 @@ Here are a few highlights from my recent work:
 
 - 🦠 **Rice Disease Detection **  
   A TFLite-based App to detect rice leaf diseases using ensemble learning  
-  [Repo Link]([https://github.com/saichandugedela/ricevision](https://github.com/saichandugedela/ricevision))
-
-
+  [Repo Link](https://github.com/saichandugedela/ricevision)
 
 ---
 
