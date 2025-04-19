@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Sai Chandu Gedela (@cimple-chandu)
+### Hey there 👋 I'm Sai Chandu Gedela (@saichandu)
 
 - 👀 I’m interested in **Deep Learning, Web Dev**
 - 🌱 I’m currently learning **Transfer Learning models, TFLite deployment, and Android ML integration**
