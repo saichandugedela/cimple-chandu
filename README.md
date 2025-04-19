@@ -28,9 +28,9 @@
 ### 📱 Projects
 Here are a few highlights from my recent work:
 
-- 🦠 **Rice Disease Detection App**  
-  A TFLite-based Android app to detect rice leaf diseases using ensemble learning  
-  [Repo Link](https://github.com/saichandugedela/ricevision)
+- 🦠 **Rice Disease Detection **  
+  A TFLite-based App to detect rice leaf diseases using ensemble learning  
+  [Repo Link]([https://github.com/saichandugedela/ricevision](https://github.com/saichandugedela/ricevision))
 
 
 
@@ -38,10 +38,5 @@ Here are a few highlights from my recent work:
 
 
 
-### 📊 GitHub Stats
-
-![Sai Chandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cimple-chandu&show_icons=true&theme=radical)
-
----
 
 > Let’s connect and build something amazing together! 🚀
