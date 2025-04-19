@@ -1,13 +1,47 @@
-### Hey there 👋 I'm Sai Chandu Gedela (@saichandu)
+<h1 align="center">Hi 👋, I'm Sai Chandu Gedela (@cimple-chandu)</h1>
+<p align="center">Aspiring Web Developer | Deep Learning Enthusiast |  CSE student at GMR Institute of Technology</p>
 
-- 👀 I’m interested in **Deep Learning, Web Dev**
-- 🌱 I’m currently learning **Transfer Learning models, TFLite deployment, and Android ML integration**
-- 💞️ I’m looking to collaborate on **AI-powered mobile apps, Research Projects, and Open Source**
-- 📫 How to reach me: **toxichaste5@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sai-chandu-gedela)
+---
+
+### 👨‍💻 About Me
+- 👀 I’m interested in **Deep Learning, Computer Vision, and Web Dev**
+- 🌱 I’m currently learning **Transfer Learning, Ensemble Learning, and TFLite Android Integration**
+- 💞️ I’m looking to collaborate on **AI-powered mobile apps, Open Source ML Projects, and Research**
+- 📫 Reach me at: **gedelasai.chandu@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sai-chandu-gedela)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love turning complex ML models into lightweight, mobile-friendly apps 🚀
+- ⚡ Fun fact: I love building smart apps that make real-world impact 🌾📱
 
-<!---
-cimple-chandu/cimple-chandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔧 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+
+---
+
+### 📱 Projects
+Here are a few highlights from my recent work:
+
+- 🦠 **Rice Disease Detection App**  
+  A TFLite-based Android app to detect rice leaf diseases using ensemble learning  
+  [Repo Link](https://github.com/saichandugedela/ricevision)
+
+
+
+---
+
+
+
+### 📊 GitHub Stats
+
+![Sai Chandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cimple-chandu&show_icons=true&theme=radical)
+
+---
+
+> Let’s connect and build something amazing together! 🚀
